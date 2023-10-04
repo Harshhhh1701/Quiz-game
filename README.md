@@ -27,13 +27,13 @@ To get started with the Quiz Web App, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Alok-2002/Quiz_Web_App_Using_HTML_CSS_And_Javascript
+     git clone https://github.com/Harshhhh1701/Quiz-game.git
    ```
 
 2. Open the project folder:
 
    ```
-   cd Quiz_Web_App_Using_HTML_CSS_And_Javascript
+   cd Quiz-game
    ```
 
 3. Launch the app by opening the `index.html` file in your preferred web browser.
@@ -63,12 +63,5 @@ If you wish to customize the app, you can modify the following files:
 - `highscores.html`: Edit the HTML structure of the app and update the UI elements.
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of this license.
-
-## Acknowledgements
-
-- The Quiz Web App utilizes the [Open Trivia Database API](https://opentdb.com) for fetching quiz questions.
-- Special thanks to the developers and contributors of the libraries and frameworks used in this project.
 
